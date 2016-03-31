@@ -117,11 +117,3 @@ Some things would be nice to do:
 
 # Licence
 Licence is MIT. Please see MIT-LICENCE in this repo.
-
-# Contributing
-Please feel free to contribute!
-
-* Fork this repo
-* Make your changes
-* Commit
-* Create a PR
